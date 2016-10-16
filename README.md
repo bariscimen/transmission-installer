@@ -1,7 +1,7 @@
 Transmission Bittorrent Client Installer Script
 ====================
 
-TransmissioniInstaller script (for Debian/Ubuntu).
+Transmission installer script (for Debian/Ubuntu).
 
 **Run the following commands to install on Debian/Ubuntu**
 
